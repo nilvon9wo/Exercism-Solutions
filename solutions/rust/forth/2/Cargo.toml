@@ -1,0 +1,8 @@
+[package]
+edition = "2021"
+name = "forth"
+version = "1.7.0"
+[dependencies]
+lazy_static = "1.4.0"
+once_cell = { version = "1.8", features = [] }
+regex = "1.10.2"
