@@ -1,0 +1,1 @@
+public record Entry<K, V>(Range<K> range, V value) {}
