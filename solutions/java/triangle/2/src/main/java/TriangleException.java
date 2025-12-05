@@ -1,0 +1,2 @@
+class TriangleException extends Exception {
+}
