@@ -1,0 +1,1 @@
+record NeighborRule(Object subject, Object fact, Neighbor relation) {}
